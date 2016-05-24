@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\GoogleVR\Scripts\GvrEye.cs">
+    <Files>
+      <File FileName="Assets\GoogleVR\Scripts\GvrEye.cs" Line="266" Column="44" />
+      <File FileName="Assets\GoogleVR\Scripts\StereoController.cs" Line="256" Column="48" />
+      <File FileName="Assets\GoogleVR\Editor\StereoControllerEditor.cs" Line="107" Column="13" />
+      <File FileName="Assets\GoogleVR\Scripts\GvrViewer.cs" Line="442" Column="29" />
+      <File FileName="Assets\GoogleVR\Scripts\Controller\GvrController.cs" Line="119" Column="22" />
+      <File FileName="Assets\GoogleVR\DemoScenes\ControllerDemo\ControllerDebugInfo.cs" Line="56" Column="23" />
+      <File FileName="Assets\GoogleVR\DemoScenes\ControllerDemo\ControllerDemoManager.cs" Line="18" Column="14" />
+      <File FileName="Assets\GoogleVR\Scripts\GvrPostRender.cs" Line="91" Column="22" />
+      <File FileName="Assets\GoogleVR\Scripts\GvrHead.cs" Line="102" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\Unity Projects\firstVR\Assets\GoogleVR\Scripts\GvrPostRender.cs" line="174" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
